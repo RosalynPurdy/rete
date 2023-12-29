@@ -1,5 +1,5 @@
 {
-  "name": "rete",
+* "name": "rete",
   "version": "2.0.2",
   "description": "JavaScript framework",
   "scripts": {
@@ -35,3 +35,4 @@
     "@babel/runtime": "^7.21.0"
   }
 }
+ 
